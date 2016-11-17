@@ -2,15 +2,7 @@
 layout: default
 ---
 <h1 class="u-text--large u-mg-btm--medium">
-  {% if page.type == 'month' %}
-  Archive for {{ page.date | date: "%Y %b" }}
-  {% elsif page.type == 'year' %}
-  Archive for {{ page.date | date: "%Y" }}
-  {% elsif page.type == 'category' %}
-  {{ page.type }} '{{ page.title }}'
-  {% elsif page.type == 'tag' %}
-  {{ page.type }} '{{ page.title }}'  
-  {% endif %}
+	{content}
 </h1>
 <div class="row">
   {% for post in page.posts %}
