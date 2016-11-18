@@ -41,6 +41,12 @@ exclude:
   - _js
   - _sass
 
+# collections
+collections:
+  tags:
+    output: true
+    permalink: /tags/:name/
+
 # Jekyll archive setting
 jekyll-archives:
   enabled:

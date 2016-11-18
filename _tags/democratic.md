@@ -1,0 +1,4 @@
+---
+layout: archive
+name: democratic
+---  
