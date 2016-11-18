@@ -29,7 +29,7 @@ gem:
   - jekyll-paginate
 gems: [jekyll-paginate]
 markdown: kramdown
-paginate: 13
+paginate: 4
 paginate_path: "paginate/:num/"
 exclude:
   - README.md
