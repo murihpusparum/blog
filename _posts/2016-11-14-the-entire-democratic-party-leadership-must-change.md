@@ -2,6 +2,7 @@
 layout: post
 title: "The entire Democratic Party Leadership must change"
 feature_image: template_blog.jpg
+topbar_active: daily_life
 category: daily_life
 tags: politic cat
 comment: true
