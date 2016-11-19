@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h1 class="u-text--large u-mg-btm--medium">
+  Category for '{{ page.category }}'
+</h1>
+<div class="row">
+  {% for post in site.categories[page.category] %}
+  <div class="gr-3 gr-12--mobile">
+    {% if post.feature_image %}
+    {% include card-with-thumbnail.html %}
+    {% else %}
+    {% include card.html %}
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>

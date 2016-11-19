@@ -25,7 +25,6 @@ author_desc: >
 # Build settings
 gem:
   - jekyll-sitemap
-  - jekyll-archives
   - jekyll-paginate
 gems: [jekyll-paginate]
 markdown: kramdown
@@ -41,22 +40,14 @@ exclude:
   - _js
   - _sass
 
-# collections
-collections:
-  tags:
-    output: true
-    permalink: /tags/:name/
-
 # Jekyll archive setting
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-    - year
-    - month
-  layout: 'archive'
-  permalinks:
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-    year: '/:year/'
-    month: '/:year/:month/'    
+# jekyll-archives:
+#   enabled:
+#     - year
+#     - month
+#   layout: 'archive'
+#   permalinks:
+#     tag: '/tag/:name/'
+#     category: '/category/:name/'
+#     year: '/:year/'
+#     month: '/:year/:month/'    

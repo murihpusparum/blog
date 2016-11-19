@@ -5,10 +5,6 @@ feature_image: default-image.png
 category: opinion
 tags: politic 
 comment: true
-sitemap:
-  lastmod: 2016-09-11
-  priority: 0.9
-  changefreq: 'monthly'
 ---  
 
 Robert Reich, who was secretary of labor in Bill Clinton's administration, [wrote today][1]:
