@@ -38,6 +38,7 @@
   },
   "dependencies": {
     "chart.js": "^2.3.0",
+    "fastclick": "^1.0.6",
     "moment": "^2.15.2",
     "oboe": "^2.1.2",
     "t3js": "^2.7.0"

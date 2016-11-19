@@ -2,7 +2,7 @@
 // Typography - Default Theme
 // ==========================================
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800');
 
 $theme-font-family: "Open Sans", Helvetica, Arial, Serif;
 
@@ -24,7 +24,7 @@ $theme-line-height: (
 );
 
 $theme-font-weight: (
-    light: 300,
+    light: 400,
     normal: 400,
     bold: 700,
     super-bold: 800

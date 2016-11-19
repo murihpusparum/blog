@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
+<div class="row row-full--mobile row-full--tablet">
+    <div class="gr-12">
 <h1 class="u-text--large u-mg-btm--medium">
   Category for '{{ page.category }}'
 </h1>
-<div class="row">
+    </div>
+</div>
+<div class="row row-full--mobile row-full--tablet">
   {% for post in site.categories[page.category] %}
-  <div class="gr-3 gr-12--mobile">
+  <div class="gr-3 gr-12--mobile gr-12--tablet">
     {% if post.feature_image %}
     {% include card-with-thumbnail.html %}
     {% else %}
