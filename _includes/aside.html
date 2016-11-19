@@ -1,4 +1,5 @@
 <aside>
+  {% unless about_card == false %}
   <div class="card">
     <div class="card__thumbnail">
       <a href="/about">
@@ -12,6 +13,7 @@
       </p>
     </div>
   </div>
+  {% endunless %}
   
   <div class="card">
     <h3 class="card__title">Recent Posts</h3>	
