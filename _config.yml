@@ -1,12 +1,12 @@
 # Site settings
-title: Hyde
+title: Murih Pusparum
 email: your-email@domain.com
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://murihpusparum.github.io"
 asseturl: "/assets/"
 keywords: 'your, site, keyword, used, for, meta, keywords'
 facebook_username: yourfacebookusername
@@ -15,20 +15,13 @@ github_username:  yourgithubusername
 linkedin_username: yourlinkedinusername
 google_site_verification: whatever
 
-# Article settings
-name: Hyde
-author: Your Website Author
-author_desc: >
-  Write your author description for your new site here. You can edit this
-  line in _config.yml. It will appear in every post you made.
-
 # Build settings
 gem:
   - jekyll-sitemap
   - jekyll-paginate
 gems: [jekyll-paginate]
 markdown: kramdown
-paginate: 4
+paginate: 16
 paginate_path: "paginate/:num/"
 exclude:
   - README.md

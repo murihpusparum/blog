@@ -1,5 +1,19 @@
 <aside>
   <div class="card">
+    <div class="card__thumbnail">
+      <a href="/about">
+        <img class="card__thumbnail__img" src="{{ 'img/uno.png' | prepend: site.asseturl }}">
+      </a>
+    </div>	
+    <div class="card__content">
+      <p class="card__title">About</p>
+      <p>
+	  {{ site.description }}
+      </p>
+    </div>
+  </div>
+  
+  <div class="card">
     <h3 class="card__title">Recent Posts</h3>	
     <div class="card__content">
       <ul class="tree">
@@ -16,12 +30,12 @@
       <ul class="tree">
 	{% for post in site.posts %}
 	{% unless post.next %}
-	<a class="tree__subtitle" href="{{ post.date | date: '%Y/%m' | prepend: '/' }}">{{ post.date | date: '%Y %b' }}</a>
+	<p class="tree__subtitle">{{ post.date | date: '%Y %b' }}</p>
 	{% else %}
 	{% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
 	{% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
 	{% if year != nyear %}
-	<a class="tree__subtitle" href="{{ post.date | date: '%Y/%m' | prepend: '/' }}">{{ post.date | date: '%Y %b' }}</a>
+	<p class="tree__subtitle">{{ post.date | date: '%Y %b' }}</p>
 	{% endif %}
 	{% endunless %}
 
