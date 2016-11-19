@@ -5,7 +5,7 @@ if ('addEventListener' in document) {
 	Fastclick(document.body);
     }, false);
 
-    document.getElementById('navbar').addEventListener('click touchend', function(e) {
+    document.getElementById('navbar').addEventListener('click', function(e) {
 
 	if (e.target && e.target.classList.contains('js-navbar-menu-btn')) {
 	    document.getElementsByClassName('js-navbar-menu')[0].classList.toggle('is-active');
@@ -13,3 +13,4 @@ if ('addEventListener' in document) {
 	
     });    
 }
+
