@@ -17,3 +17,25 @@ Oke pertama yang ada di benak saya ketika akan membeli koper adalah:
 
 Kalau dibaca sekilas, yaelah ini mah kriteria emak-emak banget ye. Maunya yang bagus tapi murah hhhh. Setelah baca review dan tips di sana sini, akhirnya poin nomor 2 dan 3 saya kesampingkan. Tetap jadi pertimbangan tapi tidak _urgent_. Iyalah ya, ada harga pasti ada kualitas. Untuk bobot kosong, saya terpikir semakin ringan kopernya, maka peluang _free baggage_ saya untuk terpakai maksimal juga semakin besar. Padahal sebenarnya, itu tergantung strategi kita saat memasukkan barang-barang nanti. Kita kan mau tinggal di negara orang (yang katanya maju), bukan tinggal di hutan, jadi ga perlu lah sampe ulekan batu yg berat atau beberapa selimut tebal masuk koper.
 
+Selain hal-hal di atas, yang menjadi pertimbangan saya lainnya adalah koper sebaiknya yang _hardcase_/sintetis, bukan yang kain. Tapi ini penyebabnya sedikit maksa sih, yaitu karena koper sintetis warnanya lucu-lucu dan lebih _fancy_ ahahaa... Dan lagi katanya kalau koper kain itu mudah disobek. Saya juga sangat mengutamakan kualitas, mengingat _luggage_ kita nanti kemungkinan besar akan dilempar dan dibanting oleh petugas bandara, repot kan ye kalau beli kualitas rendah nanti bisa-bisa pecah. Jadi kesimpulannya, saya mengelompokkan koper-koper tersebut berdasarkan _brand_, yang _hopefully_ merepresentasikan kualitas, dan hanya terbatas pada koper _hardcase_. Merek-merek yang nanti saya sebutkan adalah merek yang sudah pernah saya temui di pasar dan atau sudah berkali-kali saya baca reviewnya, bukan yang hanya saya dengar sekilas.
+
+1. POLO CLASSIC
+
+
+Koper Polo adalah yang paling banyak saya temui, bahkan selalu _ready stock_ di toko sebelah rumah, dan harganya sangat _affordable_. Untuk ukuran kabin sendiri, 18 - 22 inch hanya sekitar Rp 300 - 350 ribu. Malahan di beberapa _marketplace_ seperti Bukalapak dan Tokopedia, dengan membayar sekitar Rp 1 juta-an, sudah bisa didapat koper Polo semua ukuran (20, 24, dan 28 inch)! Wah ini mata emak-emak langsung jereng kan ye denger yang murah-murah. Apalagi, pilihan warna dan modelnya itu banyaaaak banget, lucu-lucu lagi. Tapi ternyata usut punya usut, koper Polo termasuk yang kualitasnya rendah, terlebih di pasar banyak ditemui Polo KW alias boongan. Banyak review kurang bagus, roda gampang rusak, _body_ gampang pecah, dan ada beberapa jenis yang rodanya hanya 2 dan itu sangat tidak _recommended_. Koper ini sudah saya coret dari target saya terutama untuk koper besar, walaupun saya ada rencana untuk membeli yang ukuran kabin karena relatif lebih mudah di awasi (tidak masuk bagasi pesawat dan dibanting-banting).
+
+2. TRAVEL TIME
+
+
+Ini koper diskonan yang paling sering saya temui di _department store_ macem Matahari dan Yogya. Biasanya sebelahan sama Polo bahkan harga dan modelnya pun 11 12. Hmmm jadi merek ini langsung saya _cut_. _Looks not good enough, but is still considered for the cabin one".
+
+3. PRESIDENT
+
+Nahh ini saya baca review-reviewnya, adalah termasuk koper dengan kualitas menengah, dan banyak orang yang punya model lama dari merek ini (yang kain guede yang sering dipake mbak-mbak TKW, saya juga kayaknya punya satu sih di rumah hhh). Awet sampai umur belasan bahkan puluhan tahun. Tapiiii untuk model hardcasenya sendiri saya agak kesulitan dapat _review_-nya. Dari segi harga cukup standar, tidak terlalu murah seperti Polo dan Travel Time. _However_, President teteup saya coret dari list target, alasannya? Modelnya gak _fancy_ bok, cuma kotak doang gitu, warnanya juga warna gelap-gelap ahahahaa...
+
+4. JACK NICKLAUS DAN ARNOLD PALMER
+
+
+5. LOJEL
+6. KAMILIANT
+7. SAMSONITE
