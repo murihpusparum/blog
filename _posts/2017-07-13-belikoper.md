@@ -39,3 +39,5 @@ Nahh ini saya baca review-reviewnya, adalah termasuk koper dengan kualitas menen
 5. LOJEL
 6. KAMILIANT
 7. SAMSONITE
+
+update: lupa ngelanjutin list di atas ahahaha, gak konsisten anaknya. Tapi akhirnya saya udah beli kopernya dengan merek LOJEL. Alasannya karena warnanya lucu, saya beli warna kuning ehehe, dan bahannya kokoh, insya Allah tahan di banting-banting. Kekurangannya, dia ini beurat bahkan saat kosong. Agak kurang efisien untuk bepergian jauh mengingat _free baggage_ pesawat biasanya hanya sekitar 30 kg. Seperti ini penampakannya:
