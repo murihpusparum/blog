@@ -2,7 +2,7 @@
 layout: post
 title: "Cerita tentang Timeline Sekolah"
 category: daily_life
-tags: belajar, mimpi, sekolah, hobi
+tags: belajar mimpi sekolah hobi
 feature_image: edu-1.png
 comment: true
 ---  

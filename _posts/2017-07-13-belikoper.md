@@ -2,7 +2,7 @@
 layout: post
 title: "Koper yang Pas untuk Bepergian Jauh"
 category: travelling
-tags: koper, travel, luggage
+tags: koper travel luggage
 feature_image: koper_1.jpg
 comment: true
 ---  
