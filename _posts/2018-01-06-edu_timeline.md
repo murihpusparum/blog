@@ -4,6 +4,7 @@ title: "Cerita tentang Timeline Sekolah"
 category: daily_life
 tags: belajar, mimpi, sekolah, hobi
 feature_image: edu-1.png
+comment: true
 ---  
 
 __ALERT__: Bukan tentang sekolah SD - kuliah dimana
