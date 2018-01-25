@@ -17,7 +17,7 @@ Dari pengamatan saya, hal mencolok yang berbeda adalah bahwa di sini _display_ i
 
 ![product_1](/assets/img/product_1.jpg)
 
-Untuk jenis produk yang dijual, tentunya ada beberapa perbedaan, karena gaya hidup di sini jelas berbeda dengan di Asia. Misalnya, kalau di indo minuman keras itu dilarang dijual, kecuali di beberapa supermarket besar dan diletakkan di _counter_ kasir, nah kalau di sini justru ada _section_ terpisah untuk _beer_ dan _wine_. Minimal satu gondola, atau bahkan satu lorong panjang kalau di supermarket besar dan bisa jadi kuantitinya lebih banyak dari minuman kemasan lainnya (_soft drink_, susu cair, jus).
+Untuk jenis produk yang dijual, tentunya ada beberapa perbedaan, karena gaya hidup di sini jelas berbeda dengan di Asia. Misalnya, kalau di indo minuman keras itu dilarang dijual, kecuali di beberapa supermarket besar dan diletakkan di _counter_ kasir, nah kalau di sini justru ada _section_ terpisah untuk _beer_ dan _wine_. Minimal satu gondola, atau bahkan satu lorong panjang kalau di supermarket besar dan bisa jadi kuantitinya lebih banyak dari minuman kemasan lainnya (_soft drink_, susu cair, jus). 
 
 ![product_2](/assets/img/product_2.jpg)
 
