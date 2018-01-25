@@ -32,6 +32,6 @@ Di Indonesia, sudah umum ketika berada di supermarket kita melihat banyak materi
 
 Terakhir, dari sisi _self service_. Saya salut dengan masyarakat di sini, mereka sudah hampir sama sekali tidak menggunakan kantong plastik ketika berbelanja. Pilihannya hanya dua: bawa kantong belanja sendiri atau beli tas belanja yang disediakan oleh toko. Biasanya orang akan membawa kantong belanja sendiri, selain karena alasan ramah lingkungan, juga karena tas belanja yang ditawarkan toko harganya lumayan mahal. Dan bukan kantong sekali pakai seperti kantong plastik. Kalau kepepet tidak bawa kantong belanja dan ogah beli tas yang mahal, orang akan keliling toko untuk mencari karton kosong yang bisa dipakai sebagai pengganti kantong. Karton yang digunakan sebagai _display_ produk tadi yang saya bilang di atas, gratis tentunya. Saya kira strategi seperti ini bisa diterapkan di indo, sebagai salah satu upaya pengurangan limbah plastik. Dulu memang pernah ada peraturan penjualan kantong plastik, tapi menurut saya itu masih kurang maksimal. Karena meskipun kantong plastik tidak lagi gratis, namun harga per lembarnya pun masih tergolong murah, jadi masyarakat tidak merasa terbebani untuk membeli. Dan lagi, itu masih kantong plastik biasa, kantong kresek, yang sekali pakai langsung buang, sama aja kan 😔
 Kayaknya segitu aja bedanya, kalau kepikiran yang lain nanti di _update_ yah, _see you!_
-Bonus gambar section lainnya:
+Bonus gambar section sayuran:
 
-![display_3](/assets/img/display_3.jpg)
+![display_2](/assets/img/display_2.jpg)
