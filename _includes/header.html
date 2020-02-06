@@ -1,48 +1,23 @@
 {% assign topbar_active = page.topbar_active %}
 
-<header class="topbar" id="navbar">
+<header>
 
-  <nav class="container">
-    <div class="row row-full--mobile row-full--tablet">
-      <div class="gr-3 gr-12--mobile">
-	<a class="topbar__title" href="/">{{ site.title }}</a>
-	<button class="btn btn--common topbar__menu-btn js-navbar-menu-btn"><i class="i-navicon-round"></i></button>
-      </div>
+  <nav class="max-w-3xl mx-auto px-6 flex items-center mb-8">
+      <a class="flex-none text-lg font-semibold bg-teal-700 hover_bg-teal-800 px-3 pb-2 pt-3 text-white rounded-br-lg rounded-bl-lg" href="/">
+        Murih Pusparum
+      </a>
 
-      <div class="gr-9 hide--mobile">
-	<ul class="topbar-nav">
-	  <li class="topbar-nav__item">
-	    <a class="topbar-nav__link {% if topbar_active == 'home' %}{{ 'active' }}{% endif %}" href="/">Home</a>
+	<ul class="flex-1 flex justify-end items-center text-gray-600">
+	  <li class="mx-2">
+	    <a class="hover_text-teal-800 {% if topbar_active == 'home' %}{{ 'text-teal-800 font-semibold' }}{% endif %}" href="/">Home</a>
 	  </li>
-	  <li class="topbar-nav__item">
-	    <a class="topbar-nav__link {% if topbar_active == 'travelling' %}{{ 'active' }}{% endif %}" href="/category/travelling/">Travelling</a>
+	  <li class="mx-2">
+	    <a class="hover_text-teal-800 {% if topbar_active == 'travelling' %}{{ 'text-teal-800 font-semibold' }}{% endif %}" href="/category/travelling/">Travelling</a>
 	  </li>
-	  <li class="topbar-nav__item">
-	    <a class="topbar-nav__link {% if topbar_active == 'daily_life' %}{{ 'active' }}{% endif %}" href="/category/daily_life/">Daily Life</a>
+	  <li class="mx-2">
+	    <a class="hover_text-teal-800 {% if topbar_active == 'daily_life' %}{{ 'text-teal-800 font-semibold' }}{% endif %}" href="/category/daily_life/">Daily Life</a>
 	  </li>	  	  
-	  <li class="topbar-nav__item">
-	    <a class="topbar-nav__link {% if topbar_active == 'about' %}{{ 'active' }}{% endif %}" href="/about">About</a>
-	  </li>
 	</ul>
-      </div>
-      
-      <div class="gr-12">
-	<ul class="topbar-nav topbar-nav--full js-navbar-menu">
-	  <li class="topbar-nav__item">
-	    <a class="topbar-nav__link {% if topbar_active == 'home' %}{{ 'active' }}{% endif %}" href="/">Home</a>
-	  </li>
-	  <li class="topbar-nav__item">
-	    <a class="topbar-nav__link {% if topbar_active == 'travelling' %}{{ 'active' }}{% endif %}" href="/category/travelling/">Travelling</a>
-	  </li>
-	  <li class="topbar-nav__item">
-	    <a class="topbar-nav__link {% if topbar_active == 'daily_life' %}{{ 'active' }}{% endif %}" href="/category/daily_life/">Daily Life</a>
-	  </li>	  	  	  
-	  <li class="topbar-nav__item">
-	    <a class="topbar-nav__link {% if topbar_active == 'about' %}{{ 'active' }}{% endif %}" href="/about">About</a>
-	  </li>
-	</ul>
-      </div>
-    </div>
   </nav>
 
 </header>

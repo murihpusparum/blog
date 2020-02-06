@@ -2,28 +2,32 @@
 layout: default
 ---
 {% assign about_card = false %}
-<div class="row row-full--tablet row-full--mobile">
-  <div class="gr-9 gr-12--tablet gr-12--mobile">
-  <article class="post card" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="mb-12">
+  <main>
+  <article itemscope itemtype="http://schema.org/BlogPosting">
 
     <header>
-      {% if page.feature_image %}
-      <div class="card__thumbnail">
-	<img class="card__thumbnail__img" src="{{ page.feature_image | prepend: 'img/' | prepend: site.asseturl }}">
-      </div>
-      {% endif %}
-      <div class="card-info u-mg-btm--small">
-	<span class="card-info__date"><i class="i-calendar"></i>&nbsp;&nbsp;{{ page.date | date: "%b %-d, %Y" }}</span>
-	<span class="card-info__tags">
+      <div class="flex mb-1">
+	<span class="flex-1 flex">
           {% for tag in page.tags %}
-          <a class="tag" href="{{ "/tag/" | prepend: site.baseurl | append: tag | append: "/" | downcase }}">{{ tag }}</a>
+          <a class="mr-1 text-teal-600 hover_text-teal-800" href="{{ "/tag/" | prepend: site.baseurl | append: tag | append: "/" | downcase }}">#{{ tag }}</a>
           {% endfor %}
 	</span>
       </div>      
-      <h1 class="post__title" itemprop="name headline">{{ page.title }}</h1>
+      <h1 class="text-3xl md_text-5xl md_leading-tight md_mb-4 mb-2 font-bold" itemprop="name headline">{{ page.title }}</h1>
+      <div class="flex-none mb-6">
+	<span class="text-gray-500 text-sm mr-1">{{ page.date | date: "%-d %B %Y" }}</span>
+      </div>
+
+      {% if page.feature_image %}
+      <div class="mb-8">
+	<img src="{{ page.feature_image | prepend: 'img/' | prepend: site.asseturl }}">
+      </div>
+      {% endif %}
+
     </header>
 
-    <div class="post__body" itemprop="articleBody">
+    <div class="text-lg text-gray-800 leading-relaxed" itemprop="articleBody">
       {{ content }}
     </div>
 
@@ -50,9 +54,8 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   {% endif %}                         
-  </div>
-
-  <div class="gr-3 hide--tablet hide--mobile">
-    {% include aside.html %}
+  </main>
+  <div class="mt-8">
+  {% include aside.html %}
   </div>
 </div>

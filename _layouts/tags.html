@@ -1,21 +1,41 @@
 ---
 layout: default
 ---
-<div class="row row-full--mobile row-full--tablet">
-    <div class="gr-12">
-<h1 class="u-text--large u-mg-btm--medium">
-  Tag for '{{ page.tag }}'
+<main class="mb-12 text-gray-800">
+<h1 class="text-lg mb-5">
+	Semua artikel dengan tag <span class="bg-teal-200">{{ page.tag }}</span>
 </h1>
-    </div>
-</div>
-<div class="row row-full--mobile row-full--tablet">
-  {% for post in site.tags[page.tag] %}
-  <div class="gr-3 gr-12--mobile gr-12--tablet">
-    {% if post.feature_image %}
-    {% include card-with-thumbnail.html %}
-    {% else %}
-    {% include card.html %}
-    {% endif %}
-  </div>
-  {% endfor %}
-</div>
+    <ul>
+      {% for post in site.posts %}
+      {% if post.tags contains page.tag %}
+      <li class="mb-4">
+	<article class="flex">
+	{% if post.feature_image %}
+	<div class="flex-none w-48">
+          <a href="{{ post.url }}">
+            <img src="{{ post.feature_image | prepend: 'img/' | prepend: site.asseturl }}">
+	  </a>
+	</div>
+	{% endif %}
+	<div class="flex-1 pl-4">
+	  <a href="{{ post.url }}">
+            <h2 class="font-semibold text-lg leading-none mb-1 hover_underline">{{ post.title }}</h2>
+	  </a>
+	  <p class="mb-1">{{ post.content | strip_html | truncatewords: 30 }}</p>
+	  <div class="flex">
+		  <span class="flex-none text-gray-500 text-sm mr-2">{{ post.date | date: "%d %B %Y" }}</span>
+	  {% if post.tags %}
+	  <span class="flex-1 flex">
+          {% for tag in post.tags %}
+          <a class="mr-1 text-sm text-teal-600 hover_text-teal-800" href="{{ "/tag/" | prepend: site.baseurl | append: tag | append: "/" | downcase }}">#{{ tag }}</a>
+          {% endfor %}
+	  </span>
+	  {% endif %}
+	  </div>
+	</div>
+	</article>
+      </li>
+      {% endif %}
+      {% endfor %}
+</ul>
+</main>

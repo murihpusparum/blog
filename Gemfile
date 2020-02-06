@@ -2,6 +2,7 @@
 source "https://rubygems.org"
 
 gem 'scss_lint'
+gem 'tailwindscss', git: 'https://github.com/rahmanda/tailwindscss'
 
 group :jekyll_plugins do
   gem 'jekyll-archives'
